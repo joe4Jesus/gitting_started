@@ -1,0 +1,2 @@
+This is another project file. 
+Just for testing of Git-ing with Git.
